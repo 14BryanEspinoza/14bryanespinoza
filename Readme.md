@@ -60,13 +60,8 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 Keep improving my web development and backend knowledge with the goal of becoming a **full-stack developer specialized in JavaScript**, contributing to high-impact projects.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=14BryanEspinoza&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=14BryanEspinoza&layout=compact&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=14BryanEspinoza&theme=tokyonight)
 
 ## 📫 Contact
-
-
-
 📩 **Email:** 14BryanEspinoza.@gmail.com
+
 
