@@ -1,4 +1,4 @@
-# 👨‍💻 Bryan Saenz — Front-end / Full Stack Developer (JavaScript)
+# 👨‍💻 Bryan Espinoza — Front-end 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-end+Developer;JavaScript+%7C+React+%7C+TypeScript;Future+Full+Stack+Developer" />
@@ -96,3 +96,4 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 
 ## 📫 Contact
 📩 **Email:** 14BryanSaenz.@gmail.com
+
