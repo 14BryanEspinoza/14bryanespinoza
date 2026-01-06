@@ -1,24 +1,47 @@
-# 👨‍💻 Bryan Espinoza — Front-end Developer
+# 👨‍💻 Bryan Saenz — Front-end / Full Stack Developer (JavaScript)
 
-I'm a programmer with a solid background in **front-end development**, passionate about creating efficient and engaging web solutions.  
-I focus on learning and applying modern technologies, seeking to contribute to innovative projects and grow in a collaborative, continuous learning environment.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-end+Developer;JavaScript+%7C+React+%7C+TypeScript;Future+Full+Stack+Developer" />
+</p>
 
-## 💡 Favorite Language
-- **JavaScript**
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Terminal-Warp-000000?style=for-the-badge&logo=warp" />
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 🧑‍💼 Professional Profile
+
+Front-end Developer with strong foundations in **modern JavaScript ecosystems**, focused on building scalable, maintainable, and user-centered web applications.
+
+I am actively evolving toward a **Full Stack Developer profile specialized in JavaScript**, integrating backend technologies, databases, and cloud deployment into real-world projects.
+
+✔ Clean code & best practices  
+✔ Component-based architecture  
+✔ Performance & accessibility awareness  
+✔ Team collaboration with Git workflows  
+
+---
+
+## 💡 Core Language
+- **JavaScript (ES6+)**
+
+---
 
 ## 💼 Technical Skills
 
-### 🛠 Tools
-- VS Code  
+### 🛠 Development Tools
+- Visual Studio Code  
 - Windsurf  
-- Git  
-- GitHub
-- Warp
-- Netlify  
-- Figma 
+- Warp Terminal  
+- Git & GitHub  
 
-### 📐 Methodologies
-- BEM  
+### 📐 Methodologies & Conventions
+- BEM    
 
 ### 🎨 Markup & Styling
 - HTML5  
@@ -35,11 +58,11 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 - NPM  
 - PNPM  
 
-### 🔍 Linters & Formatters
+### 🔍 Code Quality
 - ESLint  
 - Prettier  
 
-### ⚡ Bundlers
+### ⚡ Build Tools
 - Vite  
 - esbuild  
 
@@ -47,22 +70,29 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 - React  
 - jQuery  
 
-### 🗄️ Databases
-- Coming soon...
+### 🗄️ Databases (In Progress)
+- MongoDB  
+- PostgreSQL  
+
+---
 
 ## 🛠️ Featured Projects
 
-## 🏫 Studies
-- **Systems Engineering** – Ricardo Morales Avilés Multidisciplinary University  
-- **Online Courses** – Web programming & front-end application development  
+> Selected projects demonstrating real-world UI implementation, responsive design, and modern tooling.
 
-## 🌱 Goals
-Keep improving my web development and backend knowledge with the goal of becoming a **full-stack developer specialized in JavaScript**, contributing to high-impact projects.
+---
 
-## 📊 GitHub Stats
+## 🏫 Education
+- **Systems Engineering** — Ricardo Morales Avilés Multidisciplinary University  
+- **Online Training** — Web development & front-end application development  
+
+---
+
+## 🌱 Career Goals
+
+To consolidate my transition into a **Full Stack JavaScript Developer**, mastering backend development, databases, authentication, and cloud deployment, while contributing to scalable, high-impact products.
+
+---
 
 ## 📫 Contact
-📩 **Email:** 14BryanEspinoza.@gmail.com
-
-
-
+📩 **Email:** 14BryanSaenz.@gmail.com
