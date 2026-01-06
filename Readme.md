@@ -12,10 +12,10 @@ I focus on learning and applying modern technologies, seeking to contribute to i
 - VS Code  
 - Windsurf  
 - Git  
-- GitHub  
+- GitHub
+- Warp
 - Netlify  
-- Figma  
-- Excel  
+- Figma 
 
 ### 📐 Methodologies
 - BEM  
@@ -63,5 +63,6 @@ Keep improving my web development and backend knowledge with the goal of becomin
 
 ## 📫 Contact
 📩 **Email:** 14BryanEspinoza.@gmail.com
+
 
 
