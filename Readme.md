@@ -95,5 +95,6 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 ---
 
 ## 📫 Contact
-📩 **Email:** 14BryanSaenz.@gmail.com
+📩 **Email:** 14BryanEspinoza.@gmail.com
+
 
