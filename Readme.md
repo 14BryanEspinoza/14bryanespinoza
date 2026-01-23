@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Editor-Windsurf-000000?style=for-the-badge&logo=windsurf" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Terminal-Warp-000000?style=for-the-badge&logo=warp" />
   <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Terminal-Warp-000000?style=for-the-badge&logo=warp" />
 </p>
 
 ---
@@ -96,5 +96,6 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 
 ## 📫 Contact
 📩 **Email:** 14BryanEspinoza.@gmail.com
+
 
 
