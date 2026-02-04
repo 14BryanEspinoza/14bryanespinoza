@@ -48,32 +48,14 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 - CSS3  
 - Sass  
 - Bootstrap  
-- Tailwind CSS  
 
 ### 💻 Programming Languages
 - JavaScript  
-- TypeScript  
 
 ### 📦 Package Managers
 - NPM  
-- PNPM  
-
-### 🔍 Code Quality
-- ESLint  
-- Prettier  
-
-### ⚡ Build Tools
-- Vite  
-- esbuild  
-
-### 📚 Frameworks & Libraries
-- React  
-- jQuery  
-
-### 🗄️ Databases (In Progress)
-- MongoDB  
-- PostgreSQL  
-
+- PNPM
+  
 ---
 
 ## 🛠️ Featured Projects
@@ -95,7 +77,8 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 ---
 
 ## 📫 Contact
-📩 **Email:** 14BryanEspinoza.@gmail.com
+📩 **Email:** 14BryEspinoza.@gmail.com
+
 
 
 
