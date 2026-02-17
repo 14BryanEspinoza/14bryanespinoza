@@ -30,6 +30,7 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 ---
 
 ## 💡 Core Language
+
 - **JavaScript (ES6+)**
 
 ---
@@ -37,27 +38,42 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 ## 💼 Technical Skills
 
 ### 🛠 Development Tools
+
 - Visual Studio Code  
 - Windsurf  
 - Warp Terminal  
 - Git & GitHub  
 
 ### 📐 Methodologies & Conventions
-- BEM    
+
+- BEM
+- Atomic Design
 
 ### 🎨 Markup & Styling
-- HTML5  
-- CSS3  
-- Sass  
-- Bootstrap  
+
+- HTML5
+- CSS3 
+- Sass
+- Bootstrap
 
 ### 💻 Programming Languages
+
 - JavaScript  
 
 ### 📦 Package Managers
+
 - NPM  
 - PNPM
-  
+
+### 🔍 Linters & Formatters
+
+- EsLint
+- Prettier
+
+### 📚 Frameworks & Libraries
+
+- JQuery
+ 
 ---
 
 ## 🛠️ Featured Projects
@@ -67,6 +83,7 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 ---
 
 ## 🏫 Education
+
 - **Systems Engineering** — Ricardo Morales Avilés Multidisciplinary University  
 - **Online Training** — Web development & front-end application development  
 
@@ -78,8 +95,17 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 
 ---
 
+## 📊 GitHub Activity
+
+<img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=14BryanEspinoza&theme=tokyonight&column=7&margin-w=15"/>
+
+---
+
 ## 📫 Contact
+
 📩 **Email:** 14BryEspinoza.@gmail.com
+
 
 
 
