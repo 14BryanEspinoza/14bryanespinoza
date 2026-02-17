@@ -1,15 +1,17 @@
-# 👨‍💻 Bryan Espinoza — Front-end 
+# 👨‍💻 Bryan Espinoza
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-end+Developer;JavaScript+%7C+React+%7C+TypeScript;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-end+Developer;JavaScript+%7C+React+%7C+Astro;Future+Full+Stack+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-Windsurf-000000?style=for-the-badge&logo=windsurf" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Terminal-Warp-000000?style=for-the-badge&logo=warp" />
+  <img src="https://img.shields.io/badge/Warp-1e1d40?style=for-the-badge&logo=warp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-0a0d0f?style=for-the-badge&logo=windsurf&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 
 ---
