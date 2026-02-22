@@ -40,14 +40,18 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 ### 🛠 Development Tools
 
 - Visual Studio Code  
-- Windsurf  
+- Windsurf
+- Antigravity 
 - Warp Terminal  
 - Git & GitHub  
 
 ### 📐 Methodologies & Conventions
 
+- Accessibility (A11Y)
 - BEM
+- Firts Mobile
 - Atomic Design
+- Utility-Firts
 
 ### 🎨 Markup & Styling
 
@@ -55,6 +59,7 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 - CSS3 
 - Sass
 - Bootstrap
+- TailwindCss
 
 ### 💻 Programming Languages
 
@@ -79,6 +84,9 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 ## 🛠️ Featured Projects
 
 > Selected projects demonstrating real-world UI implementation, responsive design, and modern tooling.
+
+**Netlify**
+> Portfolio Web Personal: https://portfolio14bz.netlify.app/
 
 ---
 
@@ -105,6 +113,7 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 ## 📫 Contact
 
 📩 **Email:** 14BryEspinoza.@gmail.com
+
 
 
 
