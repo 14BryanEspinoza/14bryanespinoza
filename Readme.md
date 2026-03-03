@@ -75,6 +75,11 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 - EsLint
 - Prettier
 
+### 🔧 Module Bundlers
+
+- EsBuild
+- Vite
+
 ### 📚 Frameworks & Libraries
 
 - JQuery
@@ -86,8 +91,8 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 > Selected projects demonstrating real-world UI implementation, responsive design, and modern tooling.
 
 **Netlify**
-> Dashboard App: https://dashboardapp14bz.netlify.app/
-> Portfolio Web Personal: https://portfolio14bz.netlify.app/
+>- Dashboard App: https://dashboardapp14bz.netlify.app/
+>- Portfolio Web Personal: https://portfolio14bz.netlify.app/
 
 ---
 
@@ -114,6 +119,7 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 ## 📫 Contact
 
 📩 **Email:** 14BryEspinoza.@gmail.com
+
 
 
 
