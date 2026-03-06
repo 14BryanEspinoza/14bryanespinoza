@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Warp-1e1d40?style=for-the-badge&logo=warp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windsurf-0a0d0f?style=for-the-badge&logo=windsurf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-0a0d0f?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
@@ -42,12 +42,13 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 - Visual Studio Code  
 - Windsurf
 - Antigravity 
-- Warp Terminal  
+- Warp Terminal
+- OpenCode
 - Git & GitHub  
 
 ### 📐 Methodologies & Conventions
 
-- Accessibility (A11Y)
+- Accessibility (nivel AA)
 - BEM
 - Firts Mobile
 - Atomic Design
@@ -57,8 +58,8 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 
 - HTML5
 - CSS3 
-- Sass
 - Bootstrap
+- Sass
 - TailwindCss
 
 ### 💻 Programming Languages
@@ -119,6 +120,7 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 ## 📫 Contact
 
 📩 **Email:** 14BryEspinoza.@gmail.com
+
 
 
 
