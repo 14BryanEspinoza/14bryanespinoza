@@ -39,8 +39,7 @@ I am actively evolving toward a **Full Stack Developer profile specialized in Ja
 
 ### 🛠 Development Tools
 
-- Visual Studio Code  
-- Windsurf
+- Linux
 - Antigravity 
 - Warp Terminal
 - OpenCode
@@ -120,6 +119,7 @@ To consolidate my transition into a **Full Stack JavaScript Developer**, masteri
 ## 📫 Contact
 
 📩 **Email:** 14BryEspinoza.@gmail.com
+
 
 
 
