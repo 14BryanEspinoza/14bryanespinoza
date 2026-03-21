@@ -16,154 +16,164 @@
 </p>
 
 ---
+<br>
 
-## About Me
+## Sobre Mi
 
-Front-end Developer specialized in the modern JavaScript ecosystem, building responsive, accessible, and performant web applications with React, Astro, and Next.js.
+Desarrollador front-end especializado en el ecosistema JavaScript moderno, creando aplicaciones web responsivas, accesibles y de alto rendimiento con React, Astro y Next.js.
 
-I transform designs into clean, reusable components with a focus on user experience and code quality. Committed to writing maintainable code, following best practices, and continuously learning new technologies.
+Transformo diseños en componentes limpios y reutilizables, priorizando la experiencia del usuario y la calidad del código. Me comprometo a escribir código mantenible, seguir las mejores prácticas y aprender continuamente nuevas tecnologías.
 
-Currently expanding my skills toward Full Stack development while contributing to projects that make an impact.
+Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack, contribuyendo a proyectos con impacto.
 
 ---
+<br>
 
-## Tech Stack
+## Stack Tecnologico
 
 ### Markup & Styling
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white).
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white).
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white).
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white).
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white).
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black).
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white).
 
 ### Frameworks
 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react-native&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white).
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black).
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white).
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white).
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react-native&logoColor=white).
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white).
 
 ### Package Managers
 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white).
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white).
 
 ### Linting & Formatting
 
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white).
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white).
 
 ### Builds & Bundlers
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white).
+![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=black).
 
 ### Testing
 
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vite&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4C?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vite&logoColor=white).
+![Playwright](https://img.shields.io/badge/Playwright-45BA4C?style=flat&logo=playwright&logoColor=white).
 
 ### APIs
 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-009688?style=flat&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white).
+![REST](https://img.shields.io/badge/REST-009688?style=flat&logo=rest&logoColor=white).
 
 ### Methodologies
 
-- Accessibility (WCAG AA)
-- Atomic Design
-- BEM
-- Clean Code
-- Component Design
-- DDD
-- Design Patterns
-- Mobile First
-- Utility-First
+- Accessibility (WCAG AA).
+- Atomic Design.
+- BEM.
+- Clean Code.
+- Component Design.
+- DDD.
+- Design Patterns.
+- Mobile First.
+- Utility-First.
 
 ---
+<br>
 
-## Featured Projects
+## Projectos
 
 ### Dashboard App
 
-Interactive dashboard application with real-time data visualization.
+Aplicación de panel de control interactivo con visualización de datos en tiempo real.
 
 - **Technologies:** Bootstrap, JavaSciprt.
-- **Features:** Responsive design, interactive charts, component-based architecture
-- **Demo:** [Live Demo](https://dashboardapp14bz.netlify.app/)
-- **Highlights:** Clean code, accessibility compliant, mobile-first approach
+- **Features:** Responsive design, interactive charts, component-based architecture.
+- **Demo:** [Live Demo](https://dashboardapp14bz.netlify.app/).
+- **Highlights:** Clean code, accessibility compliant, mobile-first.
 
 ---
+<br>
 
 ### Portfolio Web Personal
 
-Personal portfolio showcasing projects and skills.
+Portafolio personal que muestra proyectos y habilidades.
 
 - **Technologies:** HTML5, TailwindCss, JavaScript.
 - **Features:** Responsive layout, smooth animations, modern design
 - **Demo:** [Live Demo](https://portfolio14bz.netlify.app/)
 - **Highlights:** Semantic HTML, Utility First, cross-browser compatible
 
-## Experience
+---
+<br>
 
-**Front-end Developer** — Personal Projects
-_2022 - Present_
+## Experiencia
 
-Building responsive, accessible, and performant web applications using modern JavaScript technologies. 
+**Front-end Developer** — Proyectos Personales / _2022 - Presente_
 
-- Built and deployed web applications using React, Astro, and Next.js
-- Implemented responsive designs with mobile-first approach
+Desarrollo de aplicaciones web responsivas, accesibles y de alto rendimiento utilizando tecnologías JavaScript modernas.
+
+- Desarrollé e implementé aplicaciones web con React, Astro y Next.js.
+- Implementé diseños responsivos con un enfoque mobile-first.
 
 ---
+<br>
 
-## Education
+## Educacion
 
-**Systems Engineering** — Ricardo Morales Aviles University  
-_2022 - 2025_
+**Ingeniería de Sistemas** — UNM Ricardo Morales Avilés / _2022 - 2025_
 
-**Web Development Bootcamps & Courses** — Platzi, Udemy, freeCodeCamp  
-_2022 - Present_
+**Cursos y programas intensivos de desarrollo web** / _2022 - Presente_
 
-Relevant coursework:
-- JavaScript Fundamentals & Advanced Patterns
-- React & Next.js Development
-- Responsive Web Design
-- Front-end Performance Optimization
-
----
-
-## 🌱 Career Goals
-
-To consolidate my transition into a **Full Stack JavaScript Developer**, mastering backend development, databases, authentication, and cloud deployment, while contributing to scalable, high-impact products.
+Cursos relevantes:
+- JavaScript - Soy Dalto
+- React - Gentleman Programming
+- Astro - Fernando Herrera
+- NextJS - Midudev
 
 ---
+<br>
+
+## 🌱 Metas profesionales
+
+Consolidar mi transicion a ser un **Full Stack JavaScript Developer**. Dominar el desarrollo backend, las bases de datos, la autenticación y el despliegue en la nube, y contribuir a la creación de productos escalables y de alto impacto.
+
+---
+<br>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=14BryanEspinoza&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophy"/>
+  <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="140" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14BryanEspinoza&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=14BryanEspinoza&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophy"/>
 </p>
 
 ---
+<br>
 
-## Contact
+## Contacto
 
 <p align="center">
-  <a href="mailto:14BryEspinoza@gmail.com"><img src="https://img.shields.io/badge/Email-14BryEspinoza@gmail.com-red?style=flat&logo=gmail&logoColor=white"/></a>
+  <em>Actualmente estoy abierto a nuevas oportunidades. ¡No dudes en contactarme!</em>
 </p>
 
----
+<p align="center">
+  <a href="mailto:14BryEspinoza@gmail.com"><img src="https://img.shields.io/badge/Email-14BryEspinoza@gmail.com-black?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 <p align="center">
-  <em>I'm currently open to new opportunities. Feel free to reach out!</em>
+  <strong>Programa no para resolver problemas, sino para crear soluciones</strong>
 </p>
