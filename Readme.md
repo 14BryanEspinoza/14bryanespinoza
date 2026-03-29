@@ -33,50 +33,50 @@ Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack, cont
 
 ### Markup & Styling
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white).
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white).
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white).
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white).
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white).
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black).
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white).
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Frameworks
 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white).
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black).
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white).
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white).
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react-native&logoColor=white).
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white).
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react-native&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ### Package Managers
 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white).
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white).
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
 
 ### Linting & Formatting
 
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white).
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white).
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 
 ### Builds & Bundlers
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white).
-![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=black).
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=black)
 
 ### Testing
 
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vite&logoColor=white).
-![Playwright](https://img.shields.io/badge/Playwright-45BA4C?style=flat&logo=playwright&logoColor=white).
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4C?style=flat&logo=playwright&logoColor=white)
 
 ### APIs
 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white).
-![REST](https://img.shields.io/badge/REST-009688?style=flat&logo=rest&logoColor=white).
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-009688?style=flat&logo=rest&logoColor=white)
 
 ### Methodologies
 
