@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
@@ -16,7 +16,7 @@
 
 ## Sobre Mi
 
-Desarrollador front-end especializado en el ecosistema JavaScript moderno, creando aplicaciones web responsivas, accesibles y de alto rendimiento con React, Astro y Next.js.
+Desarrollador front-end especializado en el ecosistema JavaScript moderno, creando aplicaciones web responsivas, accesibles y de alto rendimiento.
 
 Transformo diseños en componentes limpios y reutilizables, priorizando la experiencia del usuario y la calidad del código. Me comprometo a escribir código mantenible, seguir las mejores prácticas y aprender continuamente nuevas tecnologías.
 
@@ -44,10 +44,6 @@ Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack, cont
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react-native&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ### Package Managers
 
@@ -64,14 +60,8 @@ Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack, cont
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=black)
 
-### Testing
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vite&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45BA4C?style=flat&logo=playwright&logoColor=white)
-
 ### APIs
 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-009688?style=flat&logo=rest&logoColor=white)
 
 ### Methodologies
@@ -136,8 +126,6 @@ Desarrollo de aplicaciones web responsivas, accesibles y de alto rendimiento uti
 Cursos relevantes:
 - JavaScript - Soy Dalto
 - React - Gentleman Programming
-- Astro - Fernando Herrera
-- NextJS - Midudev
 
 ---
 <br>
