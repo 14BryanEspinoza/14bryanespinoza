@@ -1,7 +1,7 @@
 # Bryan Espinoza
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+Speciallist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+Especialista" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Desarrollador front-end especializado en el ecosistema JavaScript moderno, crean
 
 Transformo diseños en componentes limpios y reutilizables, priorizando la experiencia del usuario y la calidad del código. Me comprometo a escribir código mantenible, seguir las mejores prácticas y aprender continuamente nuevas tecnologías.
 
-Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack, contribuyendo a proyectos con impacto.
+Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack.
 
 ---
 <br>
@@ -81,39 +81,19 @@ Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack, cont
 
 ## Projectos
 
-### Dashboard App
+### NicaPage - Guía Turística de Nicaragua  
 
-Aplicación de panel de control interactivo con visualización de datos en tiempo real.
+Sitio web informativo multipágina sobre turismo, gastronomía, historia, cultura y naturaleza de Nicaragua.
 
-- **Technologies:** Bootstrap, JavaSciprt.
-- **Features:** Responsive design, interactive charts, component-based architecture.
-- **Demo:** [Live Demo](https://dashboardapp14bz.netlify.app/).
-- **Highlights:** Clean code, accessibility compliant, mobile-first.
-
----
-<br>
-
-### Portfolio Web Personal
-
-Portafolio personal que muestra proyectos y habilidades.
-
-- **Technologies:** HTML5, TailwindCss, JavaScript.
-- **Features:** Responsive layout, smooth animations, modern design
-- **Demo:** [Live Demo](https://portfolio14bz.netlify.app/)
-- **Highlights:** Semantic HTML, Utility First, cross-browser compatible
-
----
-<br>
-
-## Experiencia
-
-**Front-end Developer** — Proyectos Personales / _2022 - Presente_
-
-Desarrollo de aplicaciones web responsivas, accesibles y de alto rendimiento utilizando tecnologías JavaScript modernas.
-
-- Desarrollé e implementé aplicaciones web con React, Astro y Next.js.
-- Implementé diseños responsivos con un enfoque mobile-first.
-
+- **Tecnologías:** HTML5 semántico, CSS3, JavaScript ES6+  
+- **Features:**
+>- Diseño responsive mobile-first
+>- Tema claro/oscuro (localStorage)
+>- Navegación accesible (skip links, ARIA)
+>- Performance optimizada (preload, lazy load)
+>- Menú hamburguesa CSS-only, animaciones CSS  
+- **Demo:** [Ver Sitio](https://14bryanespinoza.github.io/nicapage/)
+ 
 ---
 <br>
 
