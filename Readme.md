@@ -1,137 +1,100 @@
 # Bryan Espinoza
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+Especialista" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+Specialized" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
-<br>
 
-## Sobre Mi
+## About Me
 
-Desarrollador front-end especializado en el ecosistema JavaScript moderno, creando aplicaciones web responsivas, accesibles y de alto rendimiento.
+Front-end developer specialized in the modern **JavaScript** ecosystem, creating responsive, accessible, and high-performance web applications. 
 
-Transformo diseños en componentes limpios y reutilizables, priorizando la experiencia del usuario y la calidad del código. Me comprometo a escribir código mantenible, seguir las mejores prácticas y aprender continuamente nuevas tecnologías.
+I transform designs into clean, reusable components, prioritizing user experience and code quality. I am committed to writing maintainable code, following best practices, and continuously learning new technologies. 
 
-Actualmente estoy ampliando mis habilidades hacia el desarrollo full-stack.
+I am currently expanding my skills towards full-stack development.
 
 ---
-<br>
 
-## Stack Tecnologico
+## Tech Stack
 
 ### Markup & Styling
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### Frameworks
-
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Package Managers
 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
-
-### Linting & Formatting
-
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
-
-### Builds & Bundlers
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![ESBuild](https://img.shields.io/badge/ESBuild-FFCF00?style=flat&logo=esbuild&logoColor=black)
-
-### APIs
-
-![REST](https://img.shields.io/badge/REST-009688?style=flat&logo=rest&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ### Methodologies
 
 - Accessibility (WCAG AA).
 - Atomic Design.
 - BEM.
-- Clean Code.
-- Component Design.
-- DDD.
-- Design Patterns.
 - Mobile First.
-- Utility-First.
 
 ---
-<br>
 
-## Projectos
+## Projects
 
-### NicaPage - Guía Turística de Nicaragua  
+### NicaPage - Nicaragua Travel Guide
 
-Sitio web informativo multipágina sobre turismo, gastronomía, historia, cultura y naturaleza de Nicaragua.
+Multi-page informative website about tourism, gastronomy, history, culture and nature of Nicaragua.
 
-- **Tecnologías:** HTML5 semántico, CSS3, JavaScript ES6+  
+- **Tech:** HTML5 semántic, CSS3, JavaScript ES6+  
 - **Features:**
->- Diseño responsive mobile-first
->- Tema claro/oscuro (localStorage)
->- Navegación accesible (skip links, ARIA)
->- Performance optimizada (preload, lazy load)
->- Menú hamburguesa CSS-only, animaciones CSS  
-- **Demo:** [Ver Sitio](https://14bryanespinoza.github.io/nicapage/)
+>- Mobile-first responsive design
+>- Light/Dark Theme (localStorage)
+>- Accessible navigation (skip links, ARIA)
+>- Optimized performance (preload, lazy load)
+>- CSS-only hamburger menu, CSS animations
+- **Demo Live:** [View Site](https://14bryanespinoza.github.io/nicapage/)
  
 ---
-<br>
 
-## Educacion
+## Education
 
-**Ingeniería de Sistemas** — UNM Ricardo Morales Avilés / _2022 - 2025_
+****Ingeniería de Sistemas**** — UNM Ricardo Morales Avilés / _2022 - 2025_
 
-**Cursos y programas intensivos de desarrollo web** / _2022 - Presente_
+**Intensive Web Development Courses and Programs** / _2022 - Presente_
 
-Cursos relevantes:
+Relevant courses: 
 - JavaScript - Soy Dalto
-- React - Gentleman Programming
+  
+---
+
+## 🌱 Career goals
+
+Consolidate my transition to being a **Full Stack JavaScript Developer**. Master backend development, databases, authentication, and cloud deployment, and contribute to the creation of scalable, high-impact products.
 
 ---
-<br>
-
-## 🌱 Metas profesionales
-
-Consolidar mi transicion a ser un **Full Stack JavaScript Developer**. Dominar el desarrollo backend, las bases de datos, la autenticación y el despliegue en la nube, y contribuir a la creación de productos escalables y de alto impacto.
-
----
-<br>
 
 ## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="140" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14BryanEspinoza&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-  <img src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=14BryanEspinoza&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophy"/>
 </p>
 
 ---
-<br>
 
-## Contacto
+## Contact
 
 <p align="center">
-  <em>Actualmente estoy abierto a nuevas oportunidades. ¡No dudes en contactarme!</em>
+  <em>I am currently open to new opportunities. Do not hesitate to contact me!</em>
 </p>
 
 <p align="center">
