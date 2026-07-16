@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/JavaScript-9ece6a?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center">
-  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
-</p>
+---
 
 ## Sobre mí
 
@@ -20,9 +18,7 @@ Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia ar
 
 **Full Stack** es mi próximo objetivo — expandiendo hacia backend, bases de datos y despliegue para construir soluciones completas y escalables.
 
-<p align="center">
-  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
-</p>
+---
 
 ## Stack
 
@@ -65,9 +61,7 @@ Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia ar
 
 </details>
 
-<p align="center">
-  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
-</p>
+---
 
 ## Proyectos
 
@@ -86,15 +80,15 @@ Conjunto de skills y reglas para **opencode** que definen cómo un asistente AI 
 
 🔗 [**Ver repositorio**](https://github.com/14BryanEspinoza/agent-stack)
 
-<p align="center">
-  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
-</p>
+---
 
 ## Estadísticas de GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
+
+---
 
 ## Contacto
 
