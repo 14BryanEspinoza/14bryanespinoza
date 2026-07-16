@@ -1,106 +1,111 @@
-# Bryan Espinoza
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+Specialized" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&color=7AA2F7&center=true&vCenter=true&width=500&lines=JavaScript+Development+Specialized;Frontend+Developer;AI-Assisted+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
----
-
-## About Me
-
-Front-end developer specialized in the modern **JavaScript** ecosystem, creating responsive, accessible, and high-performance web applications. 
-
-I transform designs into clean, reusable components, prioritizing user experience and code quality. I am committed to writing maintainable code, following best practices, and continuously learning new technologies. 
-
-I am currently expanding my skills towards full-stack development.
-
----
-
-## Tech Stack
-
-### Markup & Styling
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Package Managers
-
-![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
-
-### Methodologies
-
-- Accessibility (WCAG AA).
-- Atomic Design.
-- BEM.
-- Mobile First.
-
----
-
-## Projects
-
-### NicaPage - Nicaragua Travel Guide
-
-Multi-page informative website about tourism, gastronomy, history, culture and nature of Nicaragua.
-
-- **Tech:** HTML5 semántic, CSS3, JavaScript ES6+  
-- **Features:**
->- Mobile-first responsive design
->- Light/Dark Theme (localStorage)
->- Accessible navigation (skip links, ARIA)
->- Optimized performance (preload, lazy load)
->- CSS-only hamburger menu, CSS animations
-- **Demo Live:** [View Site](https://14bryanespinoza.github.io/nicapage/)
- 
----
-
-## Education
-
-****Ingeniería de Sistemas**** — UNM Ricardo Morales Avilés / _2022 - 2025_
-
-**Intensive Web Development Courses and Programs** / _2022 - Presente_
-
-Relevant courses: 
-- JavaScript - Soy Dalto
-  
----
-
-## 🌱 Career goals
-
-Consolidate my transition to being a **Full Stack JavaScript Developer**. Master backend development, databases, authentication, and cloud deployment, and contribute to the creation of scalable, high-impact products.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="140" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14BryanEspinoza&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <em>I am currently open to new opportunities. Do not hesitate to contact me!</em>
+  <img src="https://img.shields.io/badge/HTML5-e0af68?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-7dcfff?style=for-the-badge&logo=css&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-9ece6a?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
-  <a href="mailto:14BryEspinoza@gmail.com"><img src="https://img.shields.io/badge/Email-14BryEspinoza@gmail.com-black?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
+</p>
+
+## Sobre mí
+
+Front-end developer especializado en el **ecosistema JavaScript**, creando aplicaciones web **accesibles**, **responsivas** y de alto rendimiento.
+
+Me apoyo en **asistentes AI de codificación** y herramientas de inteligencia artificial para aumentar mi productividad, optimizar flujos de trabajo y mejorar la calidad del código.
+
+**Full Stack** es mi próximo objetivo — expandiendo hacia backend, bases de datos y despliegue para construir soluciones completas y escalables.
+
+<p align="center">
+  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
+</p>
+
+## Stack
+
+<details open>
+<summary>💻 Lenguajes de programación</summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-9ece6a?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+<details open>
+<summary>🎨 Markup & Styling</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-e0af68?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-7dcfff?style=for-the-badge&logo=css&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-7aa2f7?style=for-the-badge&logo=markdown&logoColor=black)
+
+</details>
+
+<details open>
+<summary>🔧 Herramientas</summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-f7768e?style=for-the-badge&logo=git&logoColor=black)
+![opencode](https://img.shields.io/badge/opencode-000000?style=for-the-badge&logo=opencode&logoColor=withe)
+
+</details>
+
+<details>
+<summary>📐 Metodologías</summary>
+<br>
+
+> - Architecture-First
+> - Mobile First
+> - BEM
+> - WCAG AA
+> - Atomic Commits
+
+</details>
+
+<p align="center">
+  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
+</p>
+
+## Proyectos
+
+### agent-stack — Skills para asistentes AI de codificación
+
+<img src="https://img.shields.io/badge/Markdown-7aa2f7?style=flat&logo=markdown&logoColor=black" /> <img src="https://img.shields.io/badge/Git-f7768e?style=flat&logo=git&logoColor=black" /> <img src="https://img.shields.io/badge/opencode-000000?style=flat&logo=opencode&logoColor=white" />
+
+Conjunto de skills y reglas para **opencode** que definen cómo un asistente AI de codificación debe pensar, detectar stacks, decidir arquitectura y ejecutar en proyectos frontend.
+
+- Arquitectura-First y eficiencia de tokens
+- Auto-detección de stack y frameworks
+- Reglas de HTML semántico, CSS moderno, JavaScript vanilla
+- Git workflow con Conventional Commits y Git Flow
+- Despliegue automatizado (GitHub Pages, Vercel, Netlify)
+- Documentación como código
+
+🔗 [**Ver repositorio**](https://github.com/14BryanEspinoza/agent-stack)
+
+<p align="center">
+  <img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22468%22%20height%3D%222%22%20viewBox%3D%220%200%20468%202%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%220%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3Cstop%20offset%3D%2225%25%22%20stop-color%3D%22%237aa2f7%22%2F%3E%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23bb9af7%22%2F%3E%3Cstop%20offset%3D%2275%25%22%20stop-color%3D%22%237dcfff%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%231a1b26%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22468%22%20height%3D%222%22%20fill%3D%22url(%23g)%22%20rx%3D%221%22%2F%3E%3C%2Fsvg%3E" alt="divider" />
+</p>
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+</p>
+
+## Contacto
+
+<p align="center">
+  <em>Actualmente abierto a nuevas oportunidades. ¡No dudes en contactarme!</em>
 </p>
 
 <p align="center">
-  <strong>Programa no para resolver problemas, sino para crear soluciones</strong>
+  <a href="mailto:14BryEspinoza@gmail.com"><img src="https://img.shields.io/badge/Email-14BryEspinoza@gmail.com-7aa2f7?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <strong><code>Programa no para resolver problemas, sino para crear soluciones</code></strong>
 </p>
