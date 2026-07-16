@@ -88,8 +88,6 @@ Conjunto de skills y reglas para **opencode** que definen cómo un asistente AI 
   <img src="https://streak-stats.demolab.com?user=14BryanEspinoza&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
 
----
-
 ## Contacto
 
 <p align="center">
