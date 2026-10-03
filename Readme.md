@@ -2,28 +2,52 @@
 
 **Frontend Developer** · Nicaragua · Disponible para remoto LATAM
 
-Construyo interfaces web accesibles, responsivas y rápidas. Foco en performance, CSS cuidado y tipado estricto.
+> Construyo interfaces web accesibles, responsivas y rápidas — con foco en performance, CSS cuidado y tipado estricto.
 
-## Selección
+---
 
-**[deli-hots](https://github.com/14BryanEspinoza/deli-hots)** — Landing y pedidos online con catálogo desde API REST y carrusel en React. [Demo](https://14bryanespinoza.github.io/deli-hots/)
+## 🎯 Selección
 
-**[podia](https://github.com/14BryanEspinoza/podia)** — Recreación del challenge Podia con foco en performance: imágenes AVIF/WebP, fuentes optimizadas y SEO técnico. [Demo](https://14bryanespinoza.github.io/podia/)
+**[deli-hots](https://github.com/14BryanEspinoza/deli-hots)** — Landing y pedidos online de un restaurante: catálogo desde una API REST, carrusel interactivo en React y build estático con Astro.
+`Astro` `React` `Tailwind` `REST API` — [Demo ↗](https://14bryanespinoza.github.io/deli-hots/)
 
-**[ableton](https://github.com/14BryanEspinoza/ableton)** — Recreación del challenge Ableton: maquetación responsive y optimización de assets y fuentes. [Demo](https://14bryanespinoza.github.io/ableton/)
+**[podia](https://github.com/14BryanEspinoza/podia)** — Recreación del challenge Podia de Frontend Practice con foco en performance: imágenes AVIF/WebP, fuentes optimizadas y SEO técnico.
+`Astro` `TypeScript` `Tailwind` — [Demo ↗](https://14bryanespinoza.github.io/podia/)
 
-**[frontend-skill](https://github.com/14BryanEspinoza/frontend-skill)** — 30 skills de ingeniería frontend para agentes de IA.
+**[ableton](https://github.com/14BryanEspinoza/ableton)** — Recreación del challenge Ableton: maquetación responsive de alta fidelidad y optimización de assets y fuentes.
+`Astro` `TypeScript` `Tailwind` — [Demo ↗](https://14bryanespinoza.github.io/ableton/)
 
-## Cómo trabajo
+**[frontend-skill](https://github.com/14BryanEspinoza/frontend-skill)** — 30 skills de ingeniería frontend (React, Next.js, testing, a11y, seguridad) para agentes de IA, con registry y detector de stack.
+`Shell` `Markdown` `AI tooling`
 
-Mobile-first · HTML semántico · WCAG AA · TypeScript strict · Lint y type-check antes de cada push
+---
 
-## Stack
+## ⚡ Cómo trabajo
 
-**Lenguajes** — TypeScript, JavaScript, HTML5, CSS3
-**Frameworks** — Astro, React, Tailwind CSS
-**En camino** — Next.js
+- **Mobile-first** — diseño pensado primero para la pantalla que el usuario realmente usa.
+- **Accesibilidad** — HTML semántico y WCAG AA desde el diseño, no como parche final.
+- **Tipado estricto** — TypeScript strict, ESLint y type-check antes de cada push.
+- **Código que se lee** — estructura por componentes, commits atómicos y README en cada proyecto.
 
-## Contacto
+---
+
+## 🛠️ Stack
+
+- **Lenguajes:** TypeScript · JavaScript · HTML5 · CSS3
+- **Frameworks:** Astro · React · Tailwind CSS
+- **Herramientas:** Git · pnpm · ESLint · Netlify · GitHub Pages
+- **En camino:** Next.js
+
+---
+
+## 📍 Ahora
+
+Profundizando en **React + TypeScript** para llevar mis proyectos a aplicaciones con más interacción — y buscando oportunidades de **desarrollo remoto en LATAM**.
+
+---
+
+## ✉️ Contacto
 
 [Portfolio](https://portfolio14bz.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/14bryanespinoza) · [X](https://x.com/14BryanEspinoza) · [14bryespinoza@gmail.com](mailto:14bryespinoza@gmail.com)
+
+*Abierto a oportunidades remotas en LATAM — si buscás un frontend dedicado a producto, hablemos.*
