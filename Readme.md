@@ -1,8 +1,8 @@
 <div align="center">
 
-# Bryan Espinoza
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Frontend+Developer;Ecosistema+JavaScript;Desarrollo+con+IA+asistido" alt="Frontend Developer · Ecosistema JavaScript · Desarrollo con IA asistido" />
 
-**Frontend Developer | React, Astro & TypeScript | Interfaces rápidas y accesibles | Disponible para remoto LATAM**
+![Disponible](https://img.shields.io/badge/Disponible-para_remoto_LATAM-10B981?style=for-the-badge)
 
 ![Astro](https://img.shields.io/badge/Astro-4B4B4B?style=for-the-badge&logo=astro&logoColor=BC52EE)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -91,6 +91,7 @@ Recreación del challenge Ableton: maquetación responsive de alta fidelidad y o
 | **Lenguajes** | TypeScript 5 · JavaScript (ES6+) · HTML5 · CSS3 |
 | **Frameworks** | Astro 7 · React 19 · Tailwind CSS 4 |
 | **Calidad** | Prettier · ESLint · Husky · lint-staged · TypeScript strict |
+| **IA asistida** | OpenCode CLI · Antigravity |
 | **Deploy** | GitHub Actions · GitHub Pages · Netlify |
 | **En camino** | Next.js |
 
