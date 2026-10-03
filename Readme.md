@@ -2,14 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Frontend+Developer;Ecosistema+JavaScript;Desarrollo+con+IA+asistido" alt="Frontend Developer · Ecosistema JavaScript · Desarrollo con IA asistido" />
 
-![Disponible](https://img.shields.io/badge/Disponible-para_remoto_LATAM-10B981?style=for-the-badge)
-
 ![Astro](https://img.shields.io/badge/Astro-4B4B4B?style=for-the-badge&logo=astro&logoColor=BC52EE)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-57B7E8?style=for-the-badge&logo=prettier&logoColor=1A2C34)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
 
@@ -99,11 +95,12 @@ Recreación del challenge Ableton: maquetación responsive de alta fidelidad y o
 
 ## 📍 Ahora
 
-Profundizando en **React + TypeScript** para llevar mis proyectos a aplicaciones con más interacción — y buscando oportunidades de **desarrollo remoto en LATAM**.
+Profundizando en **React + TypeScript** para llevar mis proyectos a aplicaciones con más interacción — y buscando oportunidades de **desarrollo remoto en LATAM** o **Locales en Nicaragua".
 
 ---
 
 ## ✉️ Contacto
+
 
 <div align="center">
 
@@ -112,6 +109,8 @@ Profundizando en **React + TypeScript** para llevar mis proyectos a aplicaciones
 [![X](https://img.shields.io/badge/X-14BryanEspinoza-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/14BryanEspinoza)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio14bz.netlify.app-FF5D01?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio14bz.netlify.app/)
 
-*Abierto a oportunidades remotas en LATAM — si buscás un frontend dedicado a producto, hablemos.*
+*Abierto a oportunidades — si buscás un frontend dedicado a producto, hablemos.*
 
 </div>
+
+> Programa no para resolver problemas, sino para crear soluciones
