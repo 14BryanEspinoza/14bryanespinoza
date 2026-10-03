@@ -8,17 +8,25 @@
 
 ## 🎯 Selección
 
-**[deli-hots](https://github.com/14BryanEspinoza/deli-hots)** — Landing y pedidos online de un restaurante: catálogo desde una API REST, carrusel interactivo en React y build estático con Astro.
+### [deli-hots](https://github.com/14BryanEspinoza/deli-hots)
+Landing y pedidos online de un restaurante: catálogo desde una API REST, carrusel interactivo en React y build estático con Astro.
+
 `Astro` `React` `Tailwind` `REST API` — [Demo ↗](https://14bryanespinoza.github.io/deli-hots/)
 
-**[podia](https://github.com/14BryanEspinoza/podia)** — Recreación del challenge Podia de Frontend Practice con foco en performance: imágenes AVIF/WebP, fuentes optimizadas y SEO técnico.
+### [podia](https://github.com/14BryanEspinoza/podia)
+Recreación del challenge Podia de Frontend Practice con foco en performance: imágenes AVIF/WebP, fuentes optimizadas y SEO técnico.
+
 `Astro` `TypeScript` `Tailwind` — [Demo ↗](https://14bryanespinoza.github.io/podia/)
 
-**[ableton](https://github.com/14BryanEspinoza/ableton)** — Recreación del challenge Ableton: maquetación responsive de alta fidelidad y optimización de assets y fuentes.
+### [ableton](https://github.com/14BryanEspinoza/ableton)
+Recreación del challenge Ableton: maquetación responsive de alta fidelidad y optimización de assets y fuentes.
+
 `Astro` `TypeScript` `Tailwind` — [Demo ↗](https://14bryanespinoza.github.io/ableton/)
 
-**[frontend-skill](https://github.com/14BryanEspinoza/frontend-skill)** — 30 skills de ingeniería frontend (React, Next.js, testing, a11y, seguridad) para agentes de IA, con registry y detector de stack.
-`Shell` `Markdown` `AI tooling`
+### [frontend-skill](https://github.com/14BryanEspinoza/frontend-skill)
+30 skills de ingeniería frontend (React, Next.js, testing, a11y, seguridad) para agentes de IA, con registry y detector de stack.
+
+`Shell` `Markdown` `AI tooling` — [Repo ↗](https://github.com/14BryanEspinoza/frontend-skill)
 
 ---
 
@@ -48,6 +56,9 @@ Profundizando en **React + TypeScript** para llevar mis proyectos a aplicaciones
 
 ## ✉️ Contacto
 
-[Portfolio](https://portfolio14bz.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/14bryanespinoza) · [X](https://x.com/14BryanEspinoza) · [14bryespinoza@gmail.com](mailto:14bryespinoza@gmail.com)
+[![Email](https://img.shields.io/badge/Email-14bryespinoza%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:14bryespinoza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14bryanespinoza-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/14bryanespinoza)
+[![X](https://img.shields.io/badge/X-14BryanEspinoza-111111?logo=x&logoColor=white)](https://x.com/14BryanEspinoza)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio14bz.netlify.app-FF5D01?logo=googlechrome&logoColor=white)](https://portfolio14bz.netlify.app/)
 
 *Abierto a oportunidades remotas en LATAM — si buscás un frontend dedicado a producto, hablemos.*
