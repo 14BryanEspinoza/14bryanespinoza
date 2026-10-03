@@ -1,15 +1,11 @@
 <div align="center">
 
-# Bryan Espinoza
-
-**Frontend Developer | React, Astro & TypeScript | Interfaces rápidas y accesibles | Disponible para remoto LATAM**
+# Frontend Developer
 
 ![Astro](https://img.shields.io/badge/Astro-4B4B4B?style=for-the-badge&logo=astro&logoColor=BC52EE)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-57B7E8?style=for-the-badge&logo=prettier&logoColor=1A2C34)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
 
